@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-04T23:54:13 IST" name="Default suite" finished-at="2023-12-04T23:54:13 IST" duration-ms="79">
+    <groups>
+    </groups>
+    <test started-at="2023-12-04T23:54:13 IST" name="Default test" finished-at="2023-12-04T23:54:13 IST" duration-ms="79">
+      <class name="coreJavaConcepts.PS1">
+        <test-method is-config="true" signature="BfMethod()[pri:0, instance:coreJavaConcepts.PS1@1ab3a8c8]" started-at="2023-12-04T23:54:13 IST" name="BfMethod" finished-at="2023-12-04T23:54:13 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfMethod -->
+        <test-method signature="doThis()[pri:0, instance:coreJavaConcepts.PS1@1ab3a8c8]" started-at="2023-12-04T23:54:13 IST" name="doThis" finished-at="2023-12-04T23:54:13 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doThis -->
+        <test-method is-config="true" signature="BfMethod()[pri:0, instance:coreJavaConcepts.PS1@1ab3a8c8]" started-at="2023-12-04T23:54:13 IST" name="BfMethod" finished-at="2023-12-04T23:54:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfMethod -->
+        <test-method signature="child()[pri:0, instance:coreJavaConcepts.PS1@1ab3a8c8]" started-at="2023-12-04T23:54:13 IST" name="child" finished-at="2023-12-04T23:54:13 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- child -->
+      </class> <!-- coreJavaConcepts.PS1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
