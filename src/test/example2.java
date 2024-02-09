@@ -14,6 +14,7 @@ public class example2 {
 	@Test
 	public void ICICILoan() {
 		System.out.println("ICICI Bank");
+		System.out.println("Git branch");
 	}
 	
 	@Test
