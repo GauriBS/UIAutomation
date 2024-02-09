@@ -18,6 +18,9 @@ public class example1 {
 	@Test
 	public void Demo2() {
 		System.out.println("Hi");
+		System.out.println("gIT pUSH");
+		System.out.println("gIT pUSH");
+		
 	}
 	
 	@Test
